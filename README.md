@@ -1,15 +1,16 @@
 # ASP.NET Core REST Web API
 
+## Características do projeto
 
-## .NET SDK Version: [net6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+  .NET SDK Version: [net6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
-## Modelo arquitetural: [REST](https://pt.wikipedia.org/wiki/REST)
+  Modelo arquitetural: [REST](https://pt.wikipedia.org/wiki/REST)
 
-## Padrão arquitetural: [Repository](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design#:~:text=The%20Repository%20pattern%20is%20a,working%20with%20a%20data%20source.&text=A%20repository%20performs%20the%20tasks,of%20domain%20objects%20in%20memory.)
+  Padrão arquitetural: [Repository](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design#:~:text=The%20Repository%20pattern%20is%20a,working%20with%20a%20data%20source.&text=A%20repository%20performs%20the%20tasks,of%20domain%20objects%20in%20memory.)
 
-## Segurança: [ASP.NET Identity](https://docs.microsoft.com/en-US/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity), [JWT](https://pt.wikipedia.org/wiki/JSON_Web_Token)
+  Segurança: [ASP.NET Identity](https://docs.microsoft.com/en-US/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity), [JWT](https://pt.wikipedia.org/wiki/JSON_Web_Token)
 
-## ORM: [EntityFramework Core](https://pt.wikipedia.org/wiki/Entity_Framework)
+  ORM: [EntityFramework Core](https://pt.wikipedia.org/wiki/Entity_Framework)
 
 ---
 
